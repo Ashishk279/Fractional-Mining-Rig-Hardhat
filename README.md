@@ -2,6 +2,8 @@
 
 This project enables **fractional mining ownership** using Ethereum-compatible smart contracts, deployed on Polygon Amoy, with Hardhat 3, TypeScript, and Solidity. Users can purchase, own, and claim rewards from mining rig shares represented as ERC1155 tokens, and interact through an integrated React+Vite frontend.
 
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -130,8 +132,9 @@ npx hardhat test
 
 
 ## Frontend
-Naviagate to [Github](https://github.com/Ashishk279/Fractional-Mining-Rig-DApp)
-
+- Naviagate to [Github](https://github.com/Ashishk279/Fractional-Mining-Rig-DApp)
+- Netlify Link:
+  [https://fractional-mining-rig-dapp.netlify.app/](https://fractional-mining-rig-dapp.netlify.app/) 
 
 ## Troubleshooting
 
