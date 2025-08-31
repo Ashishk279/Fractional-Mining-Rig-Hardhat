@@ -2,7 +2,9 @@
 
 This project enables **fractional mining ownership** using Ethereum-compatible smart contracts, deployed on Polygon Amoy, with Hardhat 3, TypeScript, and Solidity. Users can purchase, own, and claim rewards from mining rig shares represented as ERC1155 tokens, and interact through an integrated React+Vite frontend.
 
-
+## Verified Smart Contracts Links
+- [MiningRigShareContract](https://amoy.polygonscan.com/address/0x2dcfC814801364B34fA00894d4832e030585298C#code)
+- [MiningRigOwnershipContrat](https://amoy.polygonscan.com/address/0xd4dC87783F0460106eE988f118a3dB824fF160E6#code)
 
 ## Table of Contents
 
